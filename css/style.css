@@ -1,0 +1,31 @@
+body{
+    background: skyblue;
+    margin: 0px;
+}
+
+.scene {
+    height: 80%;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+    visibility: ;
+}
+
+.top {
+    height: 80%;
+    width: 80%;
+     display: block;
+    margin: auto;
+}
+
+.basil {
+    height: 80%;
+    width: 80%;
+    display: block;
+    margin: auto;
+}
